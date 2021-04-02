@@ -1,0 +1,23 @@
+body{
+    background-color: white;
+}
+.center{
+    text-align:center;
+    padding: 200px 0px;
+    /* border: 3px solid green; */
+}
+
+#input-text{
+    height: 25px;
+    width: 500px;
+}
+.right {
+    float: right;
+}
+
+.center_img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+  }
